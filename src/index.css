@@ -1,0 +1,17 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	font-family: "Poppins";
+}
+
+#root {
+	display: inline-block;
+	width: 100%;
+}
